@@ -1,5 +1,16 @@
 ## Hi there 👋
+Backend Developer
 
+
+### 🛠️ Teck Stack
+- JAVA
+- Spring
+  - Spring Boot
+  - Spring Data JPA
+  - Spring Data Redis
+- MySQL
+- Redis
+- JUnit
 <!--
 **JeongFriedEgg/JeongFriedEgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
